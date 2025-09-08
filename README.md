@@ -6,10 +6,10 @@
 
 This project is a simple **recipe website** built using HTML. The goal is to practice and demonstrate my skills with basic HTML Elements, including:
 
-- Headers ("<h1>" to "<h6>")
-- Paragraphs ("<p>")
-- Anchors ("<a>")
-- Lists ("<ul>" and "<ol>")
+- Headers
+- Paragraphs 
+- Anchors 
+- Lists 
 
 The website is designed to present the recipe in a **clear and readable format** for users.
 
